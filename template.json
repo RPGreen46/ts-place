@@ -1,0 +1,15 @@
+{
+  "contact": "sippinwinewithcacti",
+  "templates": [
+    {
+      "name": "Taylor Swift Alliance",
+      "sources": [
+        "https://raw.githubusercontent.com/RPGreen46/ts-place/main/maintemplatepx.png"
+      ],
+      "x": 499,
+      "y": 583
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
