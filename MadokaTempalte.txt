@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Madoka",
+      "sources": [
+        "https://raw.githubusercontent.com/RPGreen46/ts-place/main/rplace2023_madohomu_template.png"
+      ],
+      "x": 503,
+      "y": 642
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
